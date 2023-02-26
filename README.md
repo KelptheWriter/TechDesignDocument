@@ -13,6 +13,8 @@ What will the program have that makes it not a "Hello World" type of code. Do yo
 The complete list of features exist, but what about implementing them? What specifics will you use? Is the physics engine a specific one or is it being built from scratch? Does mapping happen manually or does it borrow imformation from files? How do you code the combat system? All of it goes in here.
 ### UML Diagram
 It is a diagram of how the system will be defined and how all the objects within it are and how they will behave. 
+<img src="https://i.imgur.com/BUJu2tk.png" width="50%">
+Example of UML
 ### Implementation Plan
 A major breakdown of tasks, sort of a checklist of what to do to have the complete game finished and ready for release. Things like "adding assets", "creating UI", etc.
 ### Schedule
