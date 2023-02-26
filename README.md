@@ -19,7 +19,7 @@ Example of UML
 A major breakdown of tasks, sort of a checklist of what to do to have the complete game finished and ready for release. Things like "adding assets", "creating UI", etc.
 ### Schedule
 A complete task breakdown exists, but when will they be done? Do they happen simultaneously? Does one go after the other? How long do they take? It's up for the schedule to fill up these gaps. 
-### Performance Budgets
+#### Performance Budgets, something to mind
 A performance budget is the practice to develop a budget based on the relationship between the financing of the development, the time available, and the expected results.
 ### Tests
 All the new features one adds to the app are all fine and nice, but testing to check if they work is needed. This section covers how that is done in detail, to prevent game breaking bugs from happening... hopefully. 
