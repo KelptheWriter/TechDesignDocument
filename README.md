@@ -34,6 +34,8 @@ When making a TDD a team is establishing a common document to help develop the s
 - Definition of variables and macros' naming scheme and hierarchy
 - Organization of the functions and code
 
+It is also convenient to keep version listing when creating the TDD.
+
 ## References
 - Dev.to: [https://dev.to/mage_ai/how-to-write-technical-design-docs-c02](https://dev.to/mage_ai/how-to-write-technical-design-docs-c02)
 - TDDdoc.io: [https://tddoc.io/](tddoc.io)
